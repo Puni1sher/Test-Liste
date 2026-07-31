@@ -1,0 +1,640 @@
+#EXTM3U
+
+#EXTINF:-1,                                 [COLOR RED]----*IPTV KAMIL*-----[/COLOR]
+http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
+http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D (1)
+http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D (2)
+http://212.224.108.84/S1/HLS_LIVE/kanald/750/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
+http://live1.cdn.web.tv/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV (1)
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
+http://live1.cdn.web.tv/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
+
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV AVRUPA
+http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV
+http://mn-l.mncdn.com/showtv/showtv1/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV (1)
+http://ift.tt/1OTkPWK
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV (2)
+http://mn-l.mncdn.com/showturktv/showturktv2/HasBahCa.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV (3)
+http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
+http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
+#EXTINF:-1,SAMANYOLU 
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1,SAMANYOLU (1)
+http://vivisolive-lh.akamaihd.net/i/syg_backup1_1@382437/index_360_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAMANYOLU EU
+http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAMANYOLU EU (1)
+http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_180_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK 
+http://37.187.164.118:1938/live/webtvplay_test/chunklist_w993475541.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK (1)
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK (2)
+http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT 1 HD (1)
+http://origin.live.web.tv.streamprovider.net/live/b5306512cde2565f1566ad35c241674c_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT HD (1)
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_600_av-p.m3u8?sd=10
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7
+http://ift.tt/1IEGfHL
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 (1)
+http://bit.do/kanal7hd
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 (2)
+http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8 
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
+http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
+http://origin.live.web.tv.streamprovider.net/live/7ea4b11a8660697ab54a3e7d03bdfef7_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 (1)
+http://31.186.24.233:8011/1
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int 
+http://31.186.24.232:8000/25
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int (1)
+http://ift.tt/1PO9u8G 
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BUGÜN TV
+http://buguntv-live.ercdn.com/buguntv1.m3u8
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANALTÜRK
+http://kanalturk-live.ercdn.com/kanalturk.m3u8  
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FLASH TV
+http://184.173.181.2:1935/8158/8158/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FLASH TV (1)
+http://origin.live.web.tv.streamprovider.net/live/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2
+http://188.138.9.246/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2 (2)
+http://188.138.9.246/S2/HLS_LIVE/tv2/track_1_320/playlist.m3u8 
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,CNBC-e
+http://origin.live.web.tv.streamprovider.net/live/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,e2
+http://origin.live.web.tv.streamprovider.net/live/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,CİNE5
+rtmp://cine5.stream.cubecdn.net/cine5/stream_1
+
+#EXTINF:-1,MC TV
+http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAMANYOLU HABER
+http://www.iptvsaga.com/play/tv3/0040.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
+http://origin2.live.web.tv.streamprovider.net/live/88d70cb4e46dd966f75aaaa3f3d9ff12_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV (1)
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV (2)
+http://ift.tt/1OTkMu3
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK (1)
+http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK (2)
+rtmp://sol.trtcdn.com/tv/trtturk/mp4:trtturk_3
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SEMERKAND TV
+rtmp://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SEMERKAND TV (1)
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT DİYANET
+http://sol.trtcdn.com/tv/trtdiyanet/mp4:trtdiyanet_3/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" DİNİ" ,DİYANET TV
+http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV5
+http://origin.live.web.tv.streamprovider.net/live/2a6b8773facea199a116b28119c87b55_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV5 (1)
+mmsh://yayin3.canliyayin.org/tv5
+#EXTINF:-1 $ExtFilter=" DİNİ" ,REHBER TV
+rtmp://yayin5.canliyayin.org:1935/live/rehbertv
+#EXTINF:-1 $ExtFilter=" DİNİ" ,DOST TV
+rtmp://yayin.dosttv.com/dosttv/dosttv2
+#EXTINF:-1 $ExtFilter=" DİNİ" ,HİLAL TV
+http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL ISLAM
+mmsh://yayin.networkbil.com/kanalislam
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT OKUL
+http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER (HD)
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER (1)
+http://ift.tt/1xhMprn
+#EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER (2)
+http://origin2.live.web.tv.streamprovider.net/live/eb12d2b839521cfd9d6d215c34f41868_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK (1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK (2)
+http://ift.tt/1QTrG33
+#EXTINF:-1 $ExtFilter=" HABER" ,NTV
+http://origin2.live.web.tv.streamprovider.net/live/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,360
+http://origin.live.web.tv.streamprovider.net/live/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
+
+
+#EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK
+http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK (1)
+http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,SKYTURK 365
+http://origin.live.web.tv.streamprovider.net/live/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,A HABER
+http://origin2.live.web.tv.streamprovider.net/live/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,24 TV
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TGRT HABER
+http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TGRT HABER (1)
+http://origin.live.web.tv.streamprovider.net/live/b9b5c58f4f1e3a925fa486c558654f6d/index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TGRT EU
+http://tgrteu.mediatriple.net:1935/tgrteuliveedge/smil:tgrt.smil/Playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV
+http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV (1)
+http://ift.tt/1UJ30x7
+#EXTINF:-1 $ExtFilter=" HABER" ,TVNET
+rtmp://91.93.118.165/tvnet/livestream
+#EXTINF:-1 $ExtFilter=" HABER" ,KANAL B
+http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TV 1
+http://stream.taksimbilisim.com:1935/tv1/smil:tv1.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL",ULUSAL TV
+http://origin2.live.web.tv.streamprovider.net/live/0b41c2c2d34dafe38a1cf1a3f2cbaefe/index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,ON 4
+rtmp://yayin.netradyom.com/live/on4
+
+#EXTINF:-1 $ExtFilter=" HABER" ,BLOOMBERG HT
+http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,BLOOMBERG HT (1)
+http://live-ciner.mncdn.net/bloomberght/bloomberght2/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter=" HABER" ,HABER 61 TV
+rtmp://win8.yayinda.org/haber61tv/haber61tv
+#EXTINF:-1 $ExtFilter=" ULUSAL",CAN ERZINCAN TV
+http://vivisolivegrp01-lh.akamaihd.net/i/backup1_1@398192/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 $ExtFilter=" ULUSAL",AKİT TV
+http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61723bed/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL AVRUPA
+rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BENGÜTÜRK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BENGÜTÜRK TV (1)
+rtmp://yayin8.canliyayin.org/benguturk/benguturk
+#EXTINF:-1,MEHTAP TV
+http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TVA ADANA
+http://yayin3.canliyayin.org:1935/tva/tva/playlist.m3u
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,MELTEM TV
+http://37.75.10.20:80/meltemtvcanli/meltemtvcanli/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL T
+http://148.251.53.81:1935/live/kanalt1/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+
+#EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR 2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" SPOR" ,NTV SPOR
+http://origin.live.web.tv.streamprovider.net/live/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" SPOR" ,A SPOR
+http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" SPOR" ,FANATİK TV
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:-1 $ExtFilter=" SPOR" ,FENERBAHCE TV
+http://origin2.live.web.tv.streamprovider.net/live/544e1de84736a3750a8c37a5eac2b12f/index.m3u8
+#EXTINF:-1 $ExtFilter=" SPOR" ,SPORTS TV
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1 $ExtFilter=" SPOR" ,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1,YUMURCAK TV
+http://vivisolivegrp01-lh.akamaihd.net/i/yumurcaktv_primary_1@304288/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,YUMURCAK TV yedek
+http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,TRT ÇOCUK (1)
+http://origin.live.web.tv.streamprovider.net/live/c7d076d40dec58b2c12a137c80898f72_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ÇOCUK"  ,PLANET ÇOCUK
+http://origin.live.web.tv.streamprovider.net/live/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ÇOCUK"  ,PLANET ÇOCUK (1)
+rtmp://77.223.146.117/live/planetc
+
+
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,DISNEY CHANNEL
+http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,ÇİZGİ FİLM TV
+mmsh://yayin.networkbil.com/cizgifilmtv
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,TV4
+http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+
+
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,RAİ YOYO
+mms://212.162.68.162/rai_yoyo
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,CAMP CARTOON
+mms://72.13.93.186/campcartoon
+
+#EXTINF:-1 $ExtFilter="SİNEMA" ,DOLUNAY
+http://ift.tt/1PO9y8u
+#EXTINF:-1,ARAFAT
+http://origin.live.web.tv.streamprovider.net/live/f5568b3fa9487e4aacece7056a472db1_live_0_0/index.m3u8
+#EXTINF:-1,YABAN TV
+http://origin.live.web.tv.streamprovider.net/live/b5bcc039336d725a0a4aab44347e5b36_live_0_0/index.m3u8
+#EXTINF:-1,TARIM TV
+http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
+#EXTINF:-1,TARIM TURK
+http://yayin3.canlitv.com:1935/live/tarimturktv/HasBahCa.m3u8
+#EXTINF:-1,BEREKET HAYVAN
+rtmp://77.92.139.130:1935/berekethayvan/berekethayvan3
+#EXTINF:-1,ANIMAL BOX
+http://31.186.24.233:8009/1
+#EXTINF:-1,KAYSERI TV
+rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+
+#EXTINF:-1,SIVAS SRT
+rtmp://stream.taksimbilisim.com:1935/srt/bant1
+#EXTINF:-1,AKSARAY 68
+http://ift.tt/1RWICHw
+#EXTINF:-1,KAPADOKYA TV
+http://ift.tt/1RWIEPn
+#EXTINF:-1,MERCAN
+http://ift.tt/1RWIEPr
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 58
+http://yayin3.canlitv.com:1935/live/kanal58/playlist.m3u8 
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KAY TV
+http://yayin3.canlitv.com:1935/live/kaytv/playlist.m3u8
+#EXTINF:-1,ADANA KOZA
+http://kozatv.garantisistem.com:1935/kozatv/kozatv2/HasBahCa.m3u8
+
+#EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET PEMBE
+rtmp://77.223.146.117/live/planetp
+
+#EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET TÜRK
+rtmp://77.223.146.117/live/planett
+
+
+#EXTINF:-1 $ExtFilter="MÜZİK" ,TRT MÜZİK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" ,TRT MÜZİK Seçenek 2
+http://sol.trtcdn.com/tv/trtmuzik/mp4:trtmuzik_3/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="BELGESEL" ,HISTORY DOCUMANTARY TR 
+http://proiptv.dyndns.tv:7088
+#EXTINF:-1 $ExtFilter="BELGESEL" ,TGRT Belgesel
+rtmp://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/tgrt1
+#EXTINF:-1 $ExtFilter="BELGESEL" ,ZTV BİLGİ
+rtmp://stream.taksimbilisim.com/ztv/bant1
+#EXTINF:-1 $ExtFilter="BELGESEL" ,KÖY TV
+http://37.75.10.20:80/koytv/koytv/playlist.m3u8?ext=.mp4
+
+#EXTINF:-1 $ExtFilter="BELGESEL" ,SELÇUK ÜNİVERSİTESİ
+http://yayin3.canlitv.com:1935/live/untv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,ANS TV Azerbaycan
+http://ans-ng.ercdn.com/ans/live/anstv.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,CTV Azerbaycan
+http://85.132.81.184:8080/ctv/live/index.m3u8
+
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,EL TV Azerbaycan
+http://85.132.81.184/eltv/live/index.m3u8
+
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,KTK Kazakistan
+http://195.49.213.56/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,KEPEZ TV Azerbaycan
+mms://85.132.78.122:1755
+
+
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,MUZ TV Azerbaycan
+rtmp://85.132.78.6:1935/live/muztv.stream
+
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,REGİON TV Azerbaycan Seçenek 2
+http://85.132.81.184:8080/regiontv/live/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV EM
+http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 1
+rtmp://sponsored.ncbtv.com:1835/live/42e_brt1
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 2
+rtmp://sponsored.ncbtv.com:1835/live/42e_brt2
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TÜRKMENELİ TV
+mms://213.142.142.213/turkmenelitv
+
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,PLANET MUTFAK
+rtmp://77.223.146.117/live/planetm
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 4 
+http://mn-l.mncdn.com/karamel/karamel/HasBahCa.m3u8
+
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA
+mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA 1
+mmsh://yayin7.canliyayin.org/sinema1?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA Seçenek 2
+mmsh://50.7.207.114/sinema?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 1 Seçenek 2
+mmsh://50.7.207.114/sinema1?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 2
+mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 2 Seçenek 2
+mmsh://50.7.207.114/sinema2?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 3
+mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 3 Seçenek 2
+mmsh://50.7.207.114/sinema3?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 4
+mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 4 Seçenek 2
+mmsh://50.7.207.114/sinema4?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 5
+mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 5 Seçenek 2
+mmsh://50.7.207.114/sinema5?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 6
+mmsh://yayin7.canliyayin.org/sinema6?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 6 Seçenek 2
+mmsh://50.7.207.114/sinema6?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD YERLİ SİNEMA
+mmsh://yayin7.canliyayin.org/sinematurk?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD YERLİ SİNEMA Seçenek 2
+mmsh://50.7.207.114/sinematurk?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,KANAL M
+mmsh://yayin.networkbil.com/kanalm?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,XNHD
+rtmp://win5.yayinda.org/telecine/telecine
+#EXTINF:-1 $ExtFilter="SİNEMA" ,FİL TV HD
+http://gg.gg/filtvhd
+#EXTINF:-1,Sinema 5001
+http://50.7.207.114/sinema2/udp/239.99.4.0:5001
+#EXTINF:-1,Sinema 5002
+http://50.7.207.114/sinema2/udp/239.99.4.0:5002
+#EXTINF:-1,Sinema 5003
+http://50.7.207.114/sinema3/udp/239.99.4.0:5003
+#EXTINF:-1,Sinema 5004
+http://50.7.207.114/sinema4/udp/239.99.4.0:5004
+#EXTINF:-1,Sinema 5005
+http://50.7.207.114/sinema5/udp/239.99.4.0:5005
+#EXTINF:-1,Sinema 5006
+http://50.7.207.114/sinema6/udp/239.99.4.0:5006
+
+#EXTINF:-1,                                 ----NEDERLAND-----
+
+#EXTINF:-1,NPO 1
+http://l2cm036f34582300564a674b000000.547f9e588067d5c6.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO 2
+http://l2cmfef46cea3500564a67f7000000.f428d430d6cf9108.kpnsmoote1f.npostreaming.nl/d/live/npo/tvlive/ned2/ned2.isml/ned2-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO 3
+http://l2cm40c4bb08df00564a686c000000.d9779801187333e9.kpnsmoote2e.npostreaming.nl/d/live/npo/tvlive/ned3/ned3.isml/ned3-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO ZAPPELIN
+http://l2cm724355227d00564a690e000000.d88cff3b58f747a0.kpnsmoote2d.npostreaming.nl/d/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO NIEUWS
+http://l2cm0f65985ac700564a6974000000.864dc751396b2d2e.kpnsmoote1a.npostreaming.nl/d/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO CULTURA
+http://l2cmc5e388527400564a69f3000000.ad351a45b545e38b.kpnsmoote1c.npostreaming.nl/d/live/npo/thematv/cultura24/cultura24.isml/cultura24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO 101
+http://l2cm41a6c1505b00564a6a67000000.b86ebd8311ddd0af.kpnsmoote2f.npostreaming.nl/d/live/npo/thematv/101tv/101tv.isml/101tv-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO POLITIEK
+http://l2cm4c72f478f400564a6afa000000.f659cf9764166dd4.kpnsmoote1f.npostreaming.nl/d/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO BEST
+http://l2cm34ca1286cb00564a6b43000000.c4160906250bf9c0.kpnsmoote2f.npostreaming.nl/d/live/npo/thematv/best24/best24.isml/best24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO DOCU
+http://l2cm5a85e180ad00564a6ba4000000.9421b8f99fb668dc.kpnsmoote2g.npostreaming.nl/d/live/npo/thematv/hollanddoc24/hollanddoc24.isml/hollanddoc24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO ZAPP XTRA
+http://l2cmb3a671763800564a6bf0000000.9660b19ab3fe27fe.kpnsmoote2b.npostreaming.nl/d/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO HUMOR TV
+http://l2cm794529ac5f00564a6c46000000.5a321a5f2f1a7884.kpnsmoote1e.npostreaming.nl/d/live/npo/thematv/humor24/humor24.isml/humor24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NL Omroep Zeeland TV
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
+#EXTINF:-1,NL RTV Drenthe
+rtmp://stream.rtvdrenthe.nl/tv/tvstream1
+
+#EXTINF:-1,Omroep Brabant
+http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
+#EXTINF:-1,Omroep Brabant (radio)
+http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_vradio/index.m3u8
+#EXTINF:-1,Omroep Flevoland
+http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/playlist.m3u8
+#EXTINF:-1,RTV NH
+http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
+
+
+
+
+#EXTINF:-1,                                 ----FUTBOL TEST----
+http://92.222.205.40:8080/superlig
+#EXTINF:-1,FUTBOL 1
+rtmp://158.69.225.205/mylive/websporr10
+#EXTINF:-1,FUTBOL 2
+http://89.163.216.97:8000/live/Akif/Akif/2
+#EXTINF:-1,FUTBOL 3
+http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/5.m3u8
+#EXTINF:-1,MAC YAYINLARI
+http://92.222.205.40:8080/superlig
+
+
+#EXTINF:-1, YABAN TV
+http://hdtvizle.ru/14452/71930/71968/yaban.m3u8
+#EXTINF:-1, World Travel Channel
+http://hdtvizle.ru/14452/71930/71968/wtc.m3u8
+#EXTINF:-1, YUMURCAK TV
+http://hdtvizle.ru/14452/71930/71968/yumurcak.m3u8
+#EXTINF:-1, CN NETWORK
+http://hdtvizle.ru/14452/71930/71968/cn.m3u8
+#EXTINF:-1, PLANET TURK
+http://hdtvizle.ru/14452/71930/71968/pturk.m3u8
+#EXTINF:-1, ANADOLU YURDUM
+http://hdtvizle.ru/14452/71930/71968/an.m3u8
+#EXTINF:-1, MEDIYA TV
+http://hdtvizle.ru/14452/71930/71968/medya.m3u8
+#EXTINF:-1, NEHIR TV
+http://hdtvizle.ru/14452/71930/71968/nehir.m3u8
+#EXTINF:-1, FiL Tv
+http://hdtvizle.ru/14452/71930/71968/fil.m3u8
+#EXTINF:-1, TRT Avaz SD
+http://hdtvizle.ru/14452/71930/71968/trtavaz.m3u8
+#EXTINF:-1, TRT Avaz HD
+http://hdtvizle.ru/14452/71930/71968/trtavazhd.m3u8
+
+#EXTINF:-1,                                 ----YEDEK TEST (1)----
+
+#‎EXTINF‬:-1,TRT  1HD 
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:-1,TRT HD
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+#EXTINF:-1,TRT HABER HD
+http://www.iptvsaga.com/play/tv3/0049.m3u8
+#EXTINF:-1,TRT TÜRK HD
+http://www.iptvsaga.com/play/tv3/0050.m3u8
+#EXTINF:-1,TRT World
+http://www.iptvsaga.com/play/tv3/0031.m3u8
+#EXTINF:-1,TRT AVAZ HD
+http://www.iptvsaga.com/play/tv3/0032.m3u8
+#EXTINF:-1,TRT KURDİ HD
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:-1,TRT OKUL HD
+http://www.iptvsaga.com/play/tv3/0034.m3u8
+#EXTINF:-1,TRT ARAPÇA
+http://www.iptvsaga.com/play/tv3/0035.m3u8
+#EXTINF:-1,TRT 3-TBMM TV
+http://www.iptvsaga.com/play/tv3/0037.m3u8
+#EXTINF:-1,TRT SPOR HD
+http://www.iptvsaga.com/play/tv3/0056.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:-1,TRT DİYANET HD
+http://www.iptvsaga.com/play/tv3/0062.m3u8
+#EXTINF:-1,ATV HD
+http://www.iptvsaga.com/play/tv3/0041.m3u8
+#EXTINF:-1,SHOW HD
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,SHOW HD (1)
+http://origin2.live.web.tv.streamprovider.net/live/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
+#EXTINF:-1,Kanal D HD
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:-1,Star TV
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:-1,tv8 HD
+http://www.iptvsaga.com/play/tv3/0064.m3u8
+#EXTINF:-1,Fox HD
+http://www.iptvsaga.com/play/tv3/0065.m3u8
+#EXTINF:-1,Samanyolu TV
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1,Samanyolu Haber
+http://www.iptvsaga.com/play/tv3/0040.m3u8
+#EXTINF:-1,Flash TV
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:-1,Kanal 7
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:-1,KANALTÜRK
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1,TVEM
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:-1,TV 2
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:-1,e2
+http://www.iptvsaga.com/play/tv3/0048.m3u8
+#EXTINF:-1,Fil TV
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:-1,TLC
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:-1,CNN Turk
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:-1,HABERTÜRK
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:-1,Bugün TV
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:-1,CINE 5
+http://www.iptvsaga.com/play/tv3/0072.m3u8
+#EXTINF:-1,Bloomberg
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:-1,TRT ÇOCUK
+http://www.iptvsaga.com/play/tv3/0053.m3u8
+#EXTINF:-1,MINIKA Çocuk
+http://www.iptvsaga.com/play/tv3/0054.m3u8
+#EXTINF:-1,MINIKA GO
+http://www.iptvsaga.com/play/tv3/0055.m3u8
+#EXTINF:-1,NTV SPOR
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:-1,SPORTS TV
+http://www.iptvsaga.com/play/tv3/0058.m3u8
+#EXTINF:-1,TRT Müzik HD
+http://www.iptvsaga.com/play/tv3/0059.m3u8
+#EXTINF:-1,DreamTürk TV
+http://www.iptvsaga.com/play/tv3/0060.m3u8
+#EXTINF:-1,Dream TV
+http://www.iptvsaga.com/play/tv3/0069.m3u8
+#EXTINF:-1,Number One HD
+http://www.iptvsaga.com/play/tv3/0068.m3u8
+#EXTINF:-1,POWERTÜRK HD
+http://www.iptvsaga.com/play/tv3/0070.m3u8
+#EXTINF:-1,POWER TV
+http://www.iptvsaga.com/play/tv3/0071.m3u8 
+
+#EXTINF:-1,                                 ----YABANCI TEST----
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,Cinemax+ 
+http://77.76.140.251/prgb.m3u8 
+#EXTINF:-1,F+ 
+http://77.76.140.251/prge.m3u8 
+#EXTINF:-1,AXN 
+http://77.76.140.251/prgd.m3u8 
+#EXTINF:-1,MovieStar 
+http://77.76.140.251/prgc.m3u8 
+#EXTINF:-1,NatGeo 
+http://77.76.140.251/prgf.m3u8 
+#EXTINF:-1,DIscovery 
+http://77.76.140.251/prgh.m3u8 
+#EXTINF:-1,DiscoveryScience 
+http://77.76.140.251/prgi.m3u8 
+#EXTINF:-1,ViasatNature 
+http://77.76.140.251/prgj.m3u8 
+#EXTINF:-1,ViasatExplorer 
+http://77.76.140.251/prgk.m3u8 
+#EXTINF:-1,TheVoice 
+http://77.76.140.251/prgm.m3u8 
+#EXTINF:-1,HBO+ 
+http://77.76.140.251/prgp.m3u8 
+#EXTINF:-1,NatGeoWild 
+http://77.76.140.251/prgg.m3u8 
+#EXTINF:-1,RingBG 
+http://77.76.140.251/prgr.m3u8 
+#EXTINF:-1,Eurosport 
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,MovieStar 
+http://77.76.140.251/prgc.m3u8 
+#EXTINF:-1,AXN 
+http://77.76.140.251/prgd.m3u8 
+#EXTINF:-1,F+ 
+http://77.76.140.251/prge.m3u8 
+#EXTINF:-1,AutoMotorSport 
+http://77.76.140.251/prgu.m3u8 
+#EXTINF:-1,FilmBoxHD 
+http://77.76.140.251/prga.m3u8 
+#EXTINF:-1,FilmBox+HD 
+http://77.76.140.251/prgb.m3u8 
+#EXTINF:-1,TheVoice 
+http://77.76.140.251/prgm.m3u8
+#EXTINF:-1,Eurosport 
+http://77.76.140.251/prgs.m3u8 
+#EXTINF:-1,Eurosport2 
+http://77.76.140.251/prgt.m3u8 
+#EXTINF:-1,TravelChannel 
+http://77.76.140.251/prgu.m3u8 
+#EXTINF:-1,AnimalPlanet 
+http://77.76.140.251/prgw.m3u8 
+#EXTINF:-1,NatGeoBG 
+http://77.76.140.251/prgf.m3u8 
+#EXTINF:-1,NatGeoWILD 
+http://77.76.140.251/prgg.m3u8 
+#EXTINF:-1,Discovery 
+http://77.76.140.251/prgh.m3u8 
+#EXTINF:-1,DiscoveryScience 
+http://77.76.140.251/prgi.m3u8 
+#EXTINF:-1,ViasatNature 
+http://77.76.140.251/prgj.m3u8 
+#EXTINF:-1,ViasatExplore 
+http://77.76.140.251/prgk.m3u8 
+#EXTINF:-1,NOXOTA
+http://77.76.140.251/prgl.m3u8 
+#EXTINF:-1,HBOBG 
+http://77.76.140.251/prgp.m3u8  
+#EXTINF:-1,Cinemax 
+http://77.76.140.251/prgb.m3u8 
