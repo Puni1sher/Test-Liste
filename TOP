@@ -3210,8 +3210,6 @@ https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
- {  
-      "img":"2e3f0922a1721cb42f406d501ff287c1.jpg",
-      "name":"Black Mirror 2011",
-      "url":"https://hdfilme.win/filme1/29992-black-mirror-stream.html"
-   },
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/95ceYgbL0MtuEMUwTHVf2XoKzl1.jpg" group-title="Filmler",Black Mirror 2011
+https://hdfilme.win/filme1/29992-black-mirror-stream.html
