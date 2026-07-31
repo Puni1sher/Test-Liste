@@ -1,0 +1,20 @@
+#EXTM3U
+
+# Türkei
+#EXTINF:-1 tvg-id="TRT1" group-title="Türkei",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber" group-title="Türkei",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor" group-title="Sport",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk" group-title="Kinder",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk" group-title="Türkei",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
